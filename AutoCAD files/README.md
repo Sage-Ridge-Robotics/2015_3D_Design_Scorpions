@@ -1,2 +1,2 @@
-# OpenSCAD-designs-for-FTC
-OpenSCAD designs for the FTC robot
+# 3D Design files
+3D design files for the FTC robot
